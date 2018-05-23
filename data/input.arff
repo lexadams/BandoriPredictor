@@ -1,0 +1,8 @@
+@relation bandori
+
+@attribute secondsSinceEventStart numeric
+@attribute currentTime date "EEE hh:mm a z"
+@attribute points numeric
+
+@data
+581400,"Tue 02:30 PM CDT",?
